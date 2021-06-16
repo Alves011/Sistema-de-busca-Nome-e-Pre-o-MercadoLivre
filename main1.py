@@ -1,3 +1,6 @@
+#AUTHOR = ALVEZ , 16/06/2021 
+
+
 from mercadolivre2 import Navegador
 from tela import Telapy
 from tela import janelaOK
